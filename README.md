@@ -2,24 +2,24 @@
 
 ## Problem Statement
 
-As you become familiar with the fundamentals of HTML, you'll get comfortable setting up the
-basics of a web document. However, you will notice that some tags that you'll come across 
-fall outside of your scope of knowledge. 
+As you become familiar with the fundamentals of HTML, you'll get comfortable setting up basic 
+webpages. However, you will notice that some tags that you'll come across fall outside of 
+your scope of knowledge. 
 
-We will inevitably come across unfamiliar HTML elements or elements for which we do not fully 
-understand the meaning and/or use. The best place to find these answer is the web itself. 
+We will all inevitably come across unfamiliar HTML elements. Or maybe we'll encounter an element 
+that's familiar, but it will be used in a way we don't understand. How are we going to level-up? 
+The techniques for searching for technical help are similar to searching for any-old-thing on the 
+internet, but we have to be more careful about which sources we trust. This is a skill you will 
+build over time, but here are some good guidelines to keep in mind.
 
 ## Objectives
 
-1. Use search engines as resource to find information
+1. Use search engines as a resource to find information
 2. Observe and identify which resources will contain relevant information
 3. Compare mulitple resources to find the most comprehensive information
 
 
-## Use search engines as resource to find information
-
-We will inevitably come across unfamiliar HTML elements or elements for which we do not fully understand the meaning and/or use. 
-The best place to find these answer is the web itself. The open and free documentation on the web gets better every day.
+## Use Search Engines as a Resources to Find Information
 
 Let's say in your research, you come across an unfamiliar element like `<samp>`. We can google 
 `samp html element,` and we will find an endless list of results to choose from. Sometimes 
@@ -28,13 +28,14 @@ online) so it's important to filter through the results to find the best fit.
 
 ![](https://curriculum-content.s3.amazonaws.com/web-development/html-element-search.png) 
 
-## Observe and identify which resources will contain relevant information
+## Observe and Identify Which Resources Will Contain Relevant Information
 
-Your instinct may be to check the first result in the search, but bare in mind, that top-
+Your instinct may be to check the first result in the search, but bear in mind, that top-
 level search results may not always be the most relevant--they just have higher 
-`Search Engine Optimazation` rankings, which can be impacting by things such as metadata
-and website accessibility, which bump them higher up in the list. If you select the second 
-search result, we will view the Mozilla Developer Network (**likely the best HTML, JS and 
+`Search Engine Optimazation` rankings, which can be impacted by things not related to 
+the quality of the content itself, which bump them higher up in the list. We recommend that 
+you open the top five results and review the results critically. We also recommend that you 
+trust sites that are affiliated with the  more than others. In the HTML world, the Mozilla Developer Network (MDN) is an extremely trustworthy site. In fact, it's likely the best HTML, JS and CSS documentation source on the internet. (**likely the best HTML, JS and 
 CSS documentation source on the internet**) documentation for the `<samp>` element.
 
 ![](https://curriculum-content.s3.amazonaws.com/web-development/samp-mdn-page.png)
@@ -57,9 +58,9 @@ includes interactive examples, creating a sandbox environment for experimentatio
 ## Conclusion
 
 The web is a constantly evolving entity. As we build more ambitious products or learn from 
-our collective needs and mistakes, the industry continually evolves the HTML specification by 
-adding new elements or deprecating legacy elements. Researching and referencing documentation 
-or other coding resources can be intimidating at first, but it's a common practice for 
-developers and another skillset that you'll become comfortable with over time. Don't be afraid to 
-implement these searches--open and free documentation on the web gets better every 
-day. It is s normal to not know or fully understand them all! 
+our collective needs and mistakes, the industry will continually evolve the HTML specifications 
+by adding new elements or deprecating legacy elements. Researching and referencing documentation 
+or other coding resources can be intimidating at first, but it's a common practice for developers, 
+and another skillset that you'll become comfortable with over time. Don't be afraid to implement 
+these searches--open source and free resources on the web get better every day. It is s normal to 
+not know or fully understand them all! 
