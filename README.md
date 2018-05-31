@@ -61,5 +61,5 @@ our collective needs and mistakes, the industry will continually evolve the HTML
 by adding new elements or deprecating legacy elements. Researching and referencing documentation 
 or other coding resources can be intimidating at first, but it's a common practice for developers, 
 and another skill set that you'll become comfortable with over time. Don't be afraid to implement 
-these searches--open source and free resources on the web get better every day. It is s normal to 
+these searches--open source and free resources on the web get better every day. It is normal to 
 not know or fully understand them all! 
