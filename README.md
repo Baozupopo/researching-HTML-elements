@@ -16,7 +16,7 @@ build over time, but here are some good guidelines to keep in mind.
 
 1. Use search engines as a resource to find information
 2. Observe and identify which resources will contain relevant information
-3. Compare mulitple resources to find the most comprehensive information
+3. Compare multiple resources to find the most comprehensive information
 
 
 ## Use Search Engines as a Resources to Find Information
@@ -30,30 +30,29 @@ online) so it's important to filter through the results to find the best fit.
 
 ## Observe and Identify Which Resources Will Contain Relevant Information
 
-Your instinct may be to check the first result in the search, but bear in mind, that top-
-level search results may not always be the most relevant--they just have higher 
-`Search Engine Optimazation` rankings, which can be impacted by things not related to 
-the quality of the content itself, which bump them higher up in the list. We recommend that 
-you open the top five results and review the results critically. We also recommend that you 
-trust sites that are affiliated with the  more than others. In the HTML world, the Mozilla Developer Network (MDN) is an extremely trustworthy site. In fact, it's likely the best HTML, JS and CSS documentation source on the internet. (**likely the best HTML, JS and 
-CSS documentation source on the internet**) documentation for the `<samp>` element.
+When perusing search results, your instinct may be to open the first result, but bear in mind, that top-
+level search results may not always be the most relevant--they could have higher 
+`Search Engine Optimization` rankings. This can be impacted by things not related to 
+the quality of the content itself, which bump the results higher up in the list. We recommend 
+that you open the top five results and review the results critically. We also recommend that you 
+trust sites that are affiliated with building or defining the technologies, moreso than blogs or other
+resources. In the HTML world, the Mozilla Developer Network (MDN) is an extremely trustworthy site. 
+In fact, it's likely the best HTML, JS and CSS documentation source on the internet.
 
 ![](https://curriculum-content.s3.amazonaws.com/web-development/samp-mdn-page.png)
 
-The [Mozilla Developer Network HTML reference guide](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) is a very robust, trusted 
-resource, constantly being updated with past, present, and pending features in web.
+## Compare multiple resources to find the most comprehensive information
 
-## Compare mulitple resources to find the most comprehensive information
 
 If we go back to the search results, you'll see that the first result in this case 
 is `W3schools`. They are a commercial resource that has been around for a very long time. 
 In this case, it may serve as a useful tool for cross-referencing new tags and concepts. 
-Sometimes you may look at the 
-[Mozilla Developer Network HTML reference guide](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) 
-to find the names and functions of tags you want to implement, but the definition or example you're given 
-doesn't feel like enough for you to understand its purpose and how to use it. A site like 
-W3schools can be used as an additional resource for garnering understanding, and even 
-includes interactive examples, creating a sandbox environment for experimentation.
+Even though the [Mozilla Developer Network HTML reference guide](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) 
+is a very robust, and trusted resource, used to find the names and functions of tags, you
+may find that the definition or example you're given in the MDN is not enough for you to 
+understand its purpose and how to use it. A site, like W3schools, for example, can be used 
+as an additional resource for garnering understanding. It even includes interactive examples, 
+creating a sandbox environment for experimentation.
 
 ## Conclusion
 
@@ -61,6 +60,6 @@ The web is a constantly evolving entity. As we build more ambitious products or 
 our collective needs and mistakes, the industry will continually evolve the HTML specifications 
 by adding new elements or deprecating legacy elements. Researching and referencing documentation 
 or other coding resources can be intimidating at first, but it's a common practice for developers, 
-and another skillset that you'll become comfortable with over time. Don't be afraid to implement 
+and another skill set that you'll become comfortable with over time. Don't be afraid to implement 
 these searches--open source and free resources on the web get better every day. It is s normal to 
 not know or fully understand them all! 
